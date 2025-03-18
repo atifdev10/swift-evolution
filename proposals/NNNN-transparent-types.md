@@ -1,93 +1,10 @@
-# Feature name
+# Transparent Types
 
-* Proposal: [SE-NNNN](NNNN-filename.md)
-* Authors: [Author 1](https://github.com/swiftdev), [Author 2](https://github.com/swiftdev)
+* Proposal: [SE-NNNN](NNNN-transparent-types.md)
+* Authors: [atifdev10](https://github.com/atifdev10)
 * Review Manager: TBD
-* Status: **Awaiting implementation** or **Awaiting review**
-* Vision: *if applicable* [Vision Name](https://github.com/swiftlang/swift-evolution/visions/NNNNN.md)
-* Roadmap: *if applicable* [Roadmap Name](https://forums.swift.org/...)
-* Bug: *if applicable* [swiftlang/swift#NNNNN](https://github.com/swiftlang/swift/issues/NNNNN)
-* Implementation: [swiftlang/swift#NNNNN](https://github.com/swiftlang/swift/pull/NNNNN) or [swiftlang/swift-evolution-staging#NNNNN](https://github.com/swiftlang/swift-evolution-staging/pull/NNNNN)
-* Upcoming Feature Flag: *if applicable* `MyFeatureName`
-* Previous Proposal: *if applicable* [SE-XXXX](XXXX-filename.md)
-* Previous Revision: *if applicable* [1](https://github.com/swiftlang/swift-evolution/blob/...commit-ID.../proposals/NNNN-filename.md)
+* Status: **Awaiting implementation**
 * Review: ([pitch](https://forums.swift.org/...))
-
-When filling out this template, you should delete or replace all of
-the text except for the section headers and the header fields above.
-For example, you should delete everything from this paragraph down to
-the Introduction section below.
-
-As a proposal author, you should fill out all of the header fields
-except `Review Manager`.  The review manager will set that field and
-change several others as part of initiating the review.  Delete any
-header fields marked *if applicable* that are not applicable to your
-proposal.
-
-When sharing a link to the proposal while it is still a PR, be sure
-to share a live link to the proposal, not an exact commit, so that
-readers will always see the latest version when you make changes.
-On GitHub, you can find this link by browsing the PR branch: from the
-PR page, click the "username wants to merge ... from username:my-branch-name"
-link and find the proposal file in that branch.
-
-`Status` should reflect the current implementation status while the
-proposal is still a PR.  The proposal cannot be reviewed until an
-implementation is available, but early readers should see the correct
-status.
-
-`Vision` should link to the [vision document](https://forums.swift.org/t/the-role-of-vision-documents-in-swift-evolution/62101)
-for this proposal, if it is part of a vision.  Most proposals are not
-part of a vision.  If a vision has been written but not yet accepted,
-link to the discussion thread for the vision.
-
-`Roadmap` should link to the discussion thread for the roadmap for
-this proposal, if applicable.  When a complex feature is broken down
-into several closely-related proposals to make evolution review easier
-and more focused, it's helpful to make a forum post explaining what's
-going on and detailing how the proposals are expected to be submitted
-to review.  That post is called a "roadmap".  Most proposals don't need
-roadmaps, but if this proposal was part of one, this field should link
-to it.
-
-`Bug` should be used when this proposal is fixing a bug with significant
-discussion in the bug report.  It is not necessary to link bugs that do
-not contain significant discussion or that merely duplicate discussion
-linked somewhere else.  Do not link bugs from private bug trackers.
-
-`Implementation` should link to the PR(s) implementing the feature.
-If the proposal has not been implemented yet, or if it simply codifies
-existing behavior, just say that.  If the implementation has already
-been committed to the main branch (as an experimental feature), say
-that and specify the experimental feature flag.  If the implementation
-is spread across multiple PRs, just link to the most important ones.
-
-`Upcoming Feature Flag` should be the feature name used to identify this
-feature under [SE-0362](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0362-piecemeal-future-features.md#proposals-define-their-own-feature-identifier).
-Not all proposals need an upcoming feature flag.  You should think about
-whether one would be useful for your proposal as part of filling this
-field out.
-
-`Previous Proposal` should be used when there is a specific line of
-succession between this proposal and another proposal.  For example,
-this proposal might have been removed from a previous proposal so
-that it can be reviewed separately, or this proposal might supersede
-a previous proposal in some way that was felt to exceed the scope of
-a "revision".  Include text briefly explaining the relationship,
-such as "Supersedes SE-1234" or "Extracted from SE-01234".  If possible,
-link to a post explaining the relationship, such as a review decision
-that asked for part of the proposal to be split off.  Otherwise, you
-can just link to the previous proposal.
-
-`Previous Revision` should be added after a major substantive revision
-of a proposal that has undergone review.  It links to the previously
-reviewed revision.  It is not necessary to add or update this field
-after minor editorial changes.
-
-`Review` is a history of all discussion threads about this proposal,
-in chronological order.  Use these standardized link names: `pitch`
-`review` `revision` `acceptance` `rejection`.  If there are multiple
-such threads, spell the ordinal out: `first pitch` `second review` etc.
 
 ## Introduction
 
